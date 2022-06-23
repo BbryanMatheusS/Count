@@ -1,0 +1,15 @@
+body {
+	background-color: aqua;
+}
+
+.content {
+	text-align: center;
+	background-color: cornflowerblue;
+}
+
+#number-increment {
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin: 0;
+}
